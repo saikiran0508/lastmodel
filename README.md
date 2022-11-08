@@ -1,0 +1,2 @@
+# lastmodel
+only convo trained
